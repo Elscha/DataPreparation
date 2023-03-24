@@ -1,0 +1,5 @@
+# Required for computation
+pandas
+
+# Required for UI
+tqdm
